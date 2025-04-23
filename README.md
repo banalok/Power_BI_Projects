@@ -30,4 +30,4 @@ Incoming email messages with relevant attachments trigger the following automate
 ![Power Automate 1](images/power_automate_flow.PNG)
 ![Power Automate 2](images/power_automate_succeeded.PNG)
 ![Automatic Dashboard update](images/Auto_Dashboard_Update.PNG)
-![DAX Implementation](images/Auto_Dashboard_Update.PNG)
+![DAX Implementation](images/DAX_to_calculate_LTV.PNG)
