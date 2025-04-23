@@ -1,4 +1,11 @@
-# Financial Data Analytics Project
+# Project 1: Global Superstore Project
+
+## Overview
+A project to analyze sales and profit of a global superstore, utilizing slicers, AI Q&A visuals, maps etc. in Power BI.
+
+
+
+# Project 2: Financial Data Analytics Project
 
 ## Overview
 An end-to-end data processing solution leveraging MS Outlook Rules for email segregation, Power Automate for attachment retrieval, Python for data processing, Power Query for transformation, and Google Cloud Platform for secure integration of Google Drive with Power BI. 
@@ -23,3 +30,4 @@ Incoming email messages with relevant attachments trigger the following automate
 ![Power Automate 1](images/power_automate_flow.PNG)
 ![Power Automate 2](images/power_automate_succeeded.PNG)
 ![Automatic Dashboard update](images/Auto_Dashboard_Update.PNG)
+![DAX Implementation](images/Auto_Dashboard_Update.PNG)
